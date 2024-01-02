@@ -2,6 +2,8 @@ This is a brief explanation of all the steps that were taken during the Covid Da
 
 The main goal of this project is to exercise some abilities in Tableau as a method of data visualization.
 
+COMPLETED: 12-05-2023
+
 ====================
 
 Table of Contents (TOC):

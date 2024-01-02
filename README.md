@@ -11,3 +11,5 @@ Table of Contents (TOC)
    - Demonstrates data sourcing, data manipulation, SQL querying, and dashboard building in Tableau.
 3. Leetcode-Solutions
    - Collection of leetcode solutions in SQL.
+4. Nashville-Project-1
+   - Demonstrates different querying abilities in SQL for cleaning, manipulating, and deleting data.

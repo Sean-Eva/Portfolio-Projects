@@ -1,6 +1,8 @@
 This is a brief explanation of all the steps that were taken during the Nashville Data Cleaning Project.
 
-The main goal of this project is to exercise the abilies using SQL to clean and modify data within a table using SQL.
+The main goal of this project is to exercise the abilies using SQL to clean, modify, and delete data within a table using SQL.
+
+COMPLETED: 12-31-2023
 
 ====================
 
@@ -13,7 +15,7 @@ Table of Contents (TOC)
 
 1. Data Source
 
-- The source of the data is a generic Nashville Housing Data Set available online.
+- The source of the data is a generic Nashville Housing Data Set available online at https://www.kaggle.com/datasets/bvanntruong/housing-sql-project
 - Base data before manipulation located in NashvilleHousing.xlsx
 
 ====================
