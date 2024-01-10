@@ -2,7 +2,7 @@ This is a brief explanation of all the steps that were taken during the Nashvill
 
 The main goal of this project is to exercise the abilies using SQL to clean, modify, and delete data within a table using SQL.
 
-COMPLETED: 12-31-2023
+COMPLETED
 
 ====================
 

@@ -2,7 +2,7 @@ This is a brief explanation of all the steps that were taken during the Covid Da
 
 The main goal of this project is to exercise some abilities in SQL on this Covid dataset and to see what we can learn from this dataset.
 
-COMPLETED: 12-04-2023
+COMPLETED
 
 ====================
 
